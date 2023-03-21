@@ -15,8 +15,9 @@ Other languages.
   ## GitHub Stats
  
 <div style="display: inline_block"><br>
+<img align="center" alt="HTML" height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidgeott&layout=compact&theme=dark">
 <img align="center" alt="Java" height="180cm"  src="https://github-readme-stats.vercel.app/api?username=Pidgeott&show_icons=true&theme=dark"> 
-<img align="left" alt="HTML" height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidgeott&layout=compact&theme=dark">
+
 </div>
 
  
