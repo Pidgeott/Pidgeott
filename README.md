@@ -1,7 +1,7 @@
 ## Hello World!! 
 ### My name is Matheus and I'm a IT student.  
             
-Currently I'm learning to code in Python.  
+Currently, I'm learning to code in Python.  
   
 Other languages.
 <div>
