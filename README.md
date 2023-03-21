@@ -15,14 +15,17 @@ Currently, I'm learning to code in Python.
   ## GitHub Stats
  
 <div style="display: inline_block"><br>
-<img align="center" alt="Java" height="180cm"  src="https://github-readme-stats.vercel.app/api?username=Pidgeott&show_icons=true&theme=dark"> 
-
+<img align="center" alt="Java" height="170cm"  src="https://github-readme-stats.vercel.app/api?username=Pidgeott&show_icons=true&theme=dark"> 
+<img align="center" alt="Java" height="170cm"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pidgeott&theme=nord_dark"> 
 </div>
 
  
  ## Social Media
 <div> 
   <a href="https://www.linkedin.com/in/matheus-lima-b63173168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
   </div>
+  
+               
 
          
