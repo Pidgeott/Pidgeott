@@ -15,8 +15,8 @@ Currently, I'm learning to code in Python.
   ## GitHub Stats
  
 <div style="display: inline_block"><br>
-<img align="center" alt="Java" height="90cm"  src="https://github-readme-stats.vercel.app/api?username=Pidgeott&show_icons=true&theme=dark"> 
-<img align="center" alt="Java" height="90cm"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pidgeott&theme=nord_dark"> 
+<img align="center" alt="Java" height="130cm"  src="https://github-readme-stats.vercel.app/api?username=Pidgeott&show_icons=true&theme=dark"> 
+<img align="center" alt="Java" height="130cm"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pidgeott&theme=nord_dark"> 
 </div>
 
  
