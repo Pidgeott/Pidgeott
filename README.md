@@ -3,7 +3,7 @@
             
 Currently, I'm learning to code in Python.  
   
-Other languages:
+<b>Other languages:</b>
 <div>
   <img align="center" alt="Matheus-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
